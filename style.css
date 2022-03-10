@@ -1,0 +1,12 @@
+body {
+  background-color: #212529;
+}
+
+.table {
+  color: #fff;
+}
+
+#result {
+  width: 360px;
+  margin: 0 auto;
+}
